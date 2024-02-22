@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div style={{ margin: "50px 0" }}>Practice Report</div>
+        Practice Report
         <div>
           <b>Вступ</b>
           <div style={{ margin: "50px 0" }}>
@@ -24,35 +24,6 @@ function App() {
           <div style={{ margin: "50px 0" }}>
             <img src={PR} alt="alt" width="100%" />
             <b>Фото з бази практики</b>
-          </div>
-          <div>
-            <b>Завдання виробничої практики</b>
-          </div>
-          <div style={{ margin: "50px 0" }}>
-            <div>
-              <b>Тема: Розробка Magento 2 модулю</b>
-            </div>
-            <div>
-              <b>Теоретичні завдання:</b>
-            </div>
-            Знання PHP, Apache, Magento 2, MySQL, Terminal Сучасні технології
-            розробки E-commerce додатків Основи розробки інтерфейсної частини із
-            використанням Magento 2
-            <div>
-              <b>Практичне завдання:</b>
-            </div>
-            Розробити модуль з новинами на Magento 2.
-            <div>
-              <b>Основні вимоги:</b>
-            </div>
-            Сайт має бути побудований на основі системі Magento 2
-            (https://devdocs.magento.com)
-            <div>
-              <b>Реалізувати наступний функціонал:</b>
-            </div>
-            Створення схеми модулю Створення бази даних Створення модулю
-            Інтерактивна адмін панель Створення, оновлення, видалення подій
-            Список створених модулів
           </div>
           <div style={{ margin: "50px 0" }}>
             <img src={IM1} alt="alt" width="100%" />
